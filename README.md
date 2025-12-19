@@ -22,3 +22,4 @@ pref.locale = "zh_CN"
 # https://blog.csdn.net/jennycisp/article/details/136313738
 
 # https://playlab.eu.org/archives/hashcat
+# https://playlab.eu.org/archives/fluxion
