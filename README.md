@@ -15,3 +15,8 @@ pref.locale = "zh_CN"
 
 
 # https://github.com/FluxionNetwork/fluxion
+
+
+# kali攻击wifi、破解wifi密码详细教程 
+
+# https://blog.csdn.net/jennycisp/article/details/136313738
